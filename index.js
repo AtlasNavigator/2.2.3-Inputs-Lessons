@@ -10,4 +10,4 @@ if (password == "fuckyounsa"){
   console.log(`Welcome ${username}`);
 } else {
   console.log("Incorrect password, please try again.");
-}
+} //You can use such things to make a simple login script
