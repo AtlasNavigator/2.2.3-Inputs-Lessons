@@ -10,4 +10,9 @@ if (password == "fuckyounsa"){
   console.log(`Welcome ${username}`);
 } else {
   console.log("Incorrect password, please try again.");
-} //You can use such things to make a simple login script
+}; //You can use such things to make a simple login script
+
+let price =16;
+let listPrice = 8;
+let discount = (price/listPrice).toFxied(2);
+console.log(discount);
